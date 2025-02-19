@@ -1,6 +1,3 @@
-Here’s a step-by-step blog post explaining how to extract YouTube video transcripts and save them as text files with the video title as the filename. The blog includes the script, explanations, and instructions for implementation.
-
----
 
 # How to Extract YouTube Transcripts and Save Them as Text Files Using Python
 
